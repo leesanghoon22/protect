@@ -2,7 +2,7 @@
 <html>
   <header>
     <style>
-      div {width:100px; height:100px; background:red;}
+   
       </style>
   </header>
   <body>
